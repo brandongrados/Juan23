@@ -7,7 +7,6 @@
 */
 (function() {
   "use strict";
-
   /**
    * Easy selector helper function
    */
@@ -162,7 +161,7 @@
     speed: 600,
     loop: true,
     autoplay: {
-      delay: 5000,
+      delay: 20000,
       disableOnInteraction: false
     },
     slidesPerView: 'auto',
